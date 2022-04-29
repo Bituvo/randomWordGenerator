@@ -28,11 +28,11 @@ const consonants = [
 ];
 
 const endConsonants = [
-  'ct', 'ft', 'ks', 'ld',
-  'lf', 'lp', 'lt', 'mp',
-  'nd', 'nk', 'nt', 'pt',
-  'rd', 'rk', 'rt', 'sk',
-  'sp', 'st'
+  'ct', 'ck' 'ft', 'ks',
+  'ld', 'lf', 'lp', 'lt',
+  'mp', 'nd', 'nk', 'nt',
+  'pt', 'rd', 'rk', 'rt',
+  'sk', 'sp', 'st', 'sm'
 ];
 
 const suffixes = [

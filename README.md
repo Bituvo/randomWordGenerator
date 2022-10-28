@@ -5,5 +5,3 @@ To use, call `createWord()`:
 ```javascript
 console.log(createWord());
 ```
-
-If you use this in any of your works, please provide credit.

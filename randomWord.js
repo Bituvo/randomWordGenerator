@@ -28,7 +28,7 @@ const consonants = [
 ];
 
 const endConsonants = [
-  'ct', 'ck' 'ft', 'ks',
+  'ct', 'ck', 'ft', 'ks',
   'ld', 'lf', 'lp', 'lt',
   'mp', 'nd', 'nk', 'nt',
   'pt', 'rd', 'rk', 'rt',
